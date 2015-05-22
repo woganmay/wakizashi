@@ -22,4 +22,5 @@ An NPM module to simplify access to Domo.com's APIs. Currently just a shell proj
 	
 ## Release History
 
+* 0.0.2 (2015-05-22) Added base modules and the me() method
 * 0.0.1 (2015-05-22) Shell project created and published 
