@@ -1,0 +1,27 @@
+{
+  "name": "wakizashi",
+  "version": "0.0.1",
+  "description": "Unofficial module for working with Domo.com APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/woganmay/wakizashi.git"
+  },
+  "keywords": [
+    "domo",
+    "api",
+    "wrapper"
+  ],
+  "author": "Wogan May <wogan.may@gmail.com> (http://wogan.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woganmay/wakizashi/issues"
+  },
+  "dependencies": {
+    "chance": "latest"
+  },
+  "homepage": "https://github.com/woganmay/wakizashi"
+}
