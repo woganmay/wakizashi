@@ -24,6 +24,5 @@ See apidoc.md for more details
 	
 ## Release History
 
-* 0.0.3 (2015-05-22) Added createDataSet and replaceDataSet methods - it's now useful!
 * 0.0.2 (2015-05-22) Added base modules and the me() method
 * 0.0.1 (2015-05-22) Shell project created and published 
