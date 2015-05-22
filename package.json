@@ -1,6 +1,6 @@
 {
   "name": "wakizashi",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Unofficial module for working with Domo.com APIs",
   "main": "index.js",
   "scripts": {
