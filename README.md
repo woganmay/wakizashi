@@ -5,11 +5,16 @@ An NPM module to simplify access to Domo.com's APIs. Currently just a shell proj
 
 ## Installation
 
-    TBC
+    npm install wakizashi
 	
 ## Usage
 
-    TBC
+    var wakizashi = require('wakizashi')
+    var domo = wakizashi('instance-id.domo.com', '123456token')
+
+    domo.me(function(data){
+    	console.log(data.displayName);
+    });
 	
 ## Contributing
 

@@ -1,23 +1,7 @@
 /**
  * Wakizashi
  * 
- * Unofficial NPM module for interacting with Domo's APIs
- * 
- * @return {object}
+ * Entry point - just hand it off to the internal library
  */
  
-function Wakizashi(options)
-{
-	// Do stuff!
-	
-	// Authenticate
-
-	// Expose methods for working with:
-	// Data
-	// Pages
-	// Cards
-	// Dataflows
-	
-}
-
-module.exports = Wakizashi;
+module.exports = require('./lib/wakizashi');

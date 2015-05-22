@@ -21,7 +21,8 @@
     "url": "https://github.com/woganmay/wakizashi/issues"
   },
   "dependencies": {
-    "chance": "latest"
+    "debug": "~2.2.0",
+    "merge-descriptors": "1.0.0"
   },
   "homepage": "https://github.com/woganmay/wakizashi"
 }
