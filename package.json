@@ -22,7 +22,11 @@
   },
   "dependencies": {
     "debug": "~2.2.0",
-    "merge-descriptors": "1.0.0"
+    "merge-descriptors": "1.0.0",
+    "node-uuid": "1.4.3",
+    "moment": "2.10.6",
+    "sprintf-js": "1.0.3",
+    "sanitize-filename": "1.4.3"
   },
   "homepage": "https://github.com/woganmay/wakizashi"
 }
